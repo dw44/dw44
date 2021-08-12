@@ -1,12 +1,3 @@
-Hi, I’m Tanzeel, a self taught developer with a background in engineering. I have been coding on and off since university, where I was exposed to C++, Motorola Assembly, and MATLAB. I decided to pursue software development as a career following a positive experience automating some tasks for work.
+Hi, I’m Tanzeel, a self taught developer with a background in engineering. I was first exposed to code at university where I learnt C++, Motorola Assembly, and MATLAB. I didn't discover my flair for it until much later when, through sheer chance, I had to use VBA scripts to automate some serious data processing in Microsoft Excel of all places, so not the most traditional second "first experience" for a web developer.
 
-I have since learnt to program in Python and JavaScript, focusing on web app development using the MERN stack. I'm particularly interested in the React ecosystem, having spent most of the last two years working with the MERN stack on personal projects.
-
-I’m interested in learning further and growing as a developer, while pursuing a career in a field I'm passionate about
-
-I can be reached at "tanzeel-urrehman@live.com" and "tanzeel.dw@gmail.com"
-
-<!---
-dw44/dw44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have since learnt to program in Python and JavaScript, focusing on web application development using the MERN stack. I particularly enjoy working with the React ecosystem, having spent most of the last two years working with the MERN stack on personal projects. I've briefly dabbled with PostgreSQL and continuing my experimentation with SQL, I'm currently tinkering with MySQL as I move to an SQL database as the primary database for my projects.
